@@ -1,0 +1,2 @@
+# GDSC HUFS Quick-Drop
+- 2023.12.28 ~ 2024.02.XX
