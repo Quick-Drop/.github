@@ -24,10 +24,6 @@ Quick Drop
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white">
 
 ## 스크린샷
-### 메인 화면
-
-
-
-### 상세페이지
-
-
+<img src="https://github.com/Quick-Drop/.github/assets/42750885/5ae47c5c-07b0-424e-9559-49da7468ceca" width="30%">
+<img src="https://github.com/Quick-Drop/.github/assets/42750885/4b7cb6f8-80ae-4411-baa8-ae09c10c614e" width="30%">
+<img src="https://github.com/Quick-Drop/.github/assets/42750885/56da2f72-8d44-4d19-a295-5c9340257ed6" width="30%">
