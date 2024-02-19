@@ -27,8 +27,16 @@ Quick Drop
 | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/42750885?v=4" height=100 width=100> <br/> @s00ngle](https://github.com/s00ngle) |
 
-## 사용 기술
+## 기술 스택
 Flutter, FastAPI, MySQL, Google Cloud Platform
+### ✔️AI
+
+
+### ✔️Frond-end
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+
+### ✔️Back-end
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white">
 
 ## 스크린샷
 ### 메인 화면
