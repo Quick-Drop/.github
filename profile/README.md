@@ -2,12 +2,12 @@
 
 ### Overview
 2024 GDSC Solution Challenge team Quick Drop
-### 개발 기간
+### Development Period
 2023.12.28 ~ 2024.02.22
-### 한줄 소개
+### Introduction
 이 서비스는 ~~
 
-## 팀 소개
+## Team Member
 | **이 산** | **조완기** | **박찬주** | **김용순** |
 | :------: | :------: | :------:  | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/71820763?v=4" height=100 width=100> <br/> @Suphporia](https://github.com/Suphporia) | [<img src="https://avatars.githubusercontent.com/u/70210457?v=4" height=100 width=100> <br/> @Anas-wg](https://github.com/Anas-wg) | [<img src="https://avatars.githubusercontent.com/u/95401144?v=4" height=100 width=100> <br/> @ElvaCJ](https://github.com/ElvaCJ) | [<img src="https://avatars.githubusercontent.com/u/42750885?v=4" height=100 width=100> <br/> @s00ngle](https://github.com/s00ngle) |
