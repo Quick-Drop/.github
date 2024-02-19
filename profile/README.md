@@ -12,20 +12,10 @@ Quick Drop
 이 서비스는 ~~
 
 ## 팀 소개
-### Team Leader / AI Developer
-| **이 산** |
-| :------: |
-| [<img src="https://avatars.githubusercontent.com/u/71820763?v=4" height=100 width=100> <br/> @Suphporia](https://github.com/Suphporia) |
-
-### FE Developer
-| **조완기** | **박찬주** |
-| :------: | :------:  |
-| [<img src="https://avatars.githubusercontent.com/u/70210457?v=4" height=100 width=100> <br/> @Anas-wg](https://github.com/Anas-wg) | [<img src="https://avatars.githubusercontent.com/u/95401144?v=4" height=100 width=100> <br/> @ElvaCJ](https://github.com/ElvaCJ) |
-
-### BE Developer
-| **김용순** |
-| :------: |
-| [<img src="https://avatars.githubusercontent.com/u/42750885?v=4" height=100 width=100> <br/> @s00ngle](https://github.com/s00ngle) |
+| **이 산** | **조완기** | **박찬주** | **김용순** |
+| :------: | :------: | :------:  | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/71820763?v=4" height=100 width=100> <br/> @Suphporia](https://github.com/Suphporia) | [<img src="https://avatars.githubusercontent.com/u/70210457?v=4" height=100 width=100> <br/> @Anas-wg](https://github.com/Anas-wg) | [<img src="https://avatars.githubusercontent.com/u/95401144?v=4" height=100 width=100> <br/> @ElvaCJ](https://github.com/ElvaCJ) | [<img src="https://avatars.githubusercontent.com/u/42750885?v=4" height=100 width=100> <br/> @s00ngle](https://github.com/s00ngle) |
+| AI / Leader | Front-end | Front-end / UI | Back-end |
 
 ## 기술 스택
 ### ✔️AI
