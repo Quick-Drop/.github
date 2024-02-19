@@ -15,7 +15,7 @@ Quick Drop
 ### Team Leader / AI Developer
 | **이 산** |
 | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/?v=4" height=100 width=100> <br/> @San_L](https://github.com/San_L) |
+| [<img src="https://avatars.githubusercontent.com/u/?v=4" height=100 width=100> <br/> @San_L](https://github.com/Suphporia) |
 
 ### FE Developer
 | **조완기** | **박찬주** |
