@@ -1,7 +1,7 @@
 # GDSC HUFS Quick Drop
 
-### 프로젝트명
-Quick Drop
+### Overview
+2024 GDSC Solution Challenge team Quick Drop
 ### 개발 기간
 2023.12.28 ~ 2024.02.22
 ### 한줄 소개
