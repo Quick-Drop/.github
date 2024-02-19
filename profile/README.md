@@ -5,7 +5,7 @@
 ### Development Period
 2023.12.28 ~ 2024.02.22
 ### Introduction
-이 서비스는 ~~
+"Quick Drop" is a service application that allows users to easily donate items. Users can upload photos of items, which are automatically categorized, and then simply provide a brief description of the item's condition. This enables quick and convenient donation registration.
 
 ## Team Member
 | **이 산<br/>Lee San** | **조완기<br/>Cho Wangi** | **박찬주<br/>Park Chanjoo** | **김용순<br/>Kim YongSoon** |
