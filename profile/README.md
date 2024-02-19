@@ -28,7 +28,6 @@ Quick Drop
 | [<img src="https://avatars.githubusercontent.com/u/42750885?v=4" height=100 width=100> <br/> @s00ngle](https://github.com/s00ngle) |
 
 ## 기술 스택
-Flutter, FastAPI, MySQL, Google Cloud Platform
 ### ✔️AI
 
 
