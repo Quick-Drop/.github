@@ -15,17 +15,17 @@ Quick Drop
 ### Team Leader / AI Developer
 | **이 산** |
 | :------: |
-| [<img src="[https://avatars.githubusercontent.com/u/?v=4](https://avatars.githubusercontent.com/u/71820763?v=4)" height=100 width=100> <br/> @Suphporia](https://github.com/Suphporia) |
+| [<img src="https://avatars.githubusercontent.com/u/71820763?v=4" height=100 width=100> <br/> @Suphporia](https://github.com/Suphporia) |
 
 ### FE Developer
 | **조완기** | **박찬주** |
 | :------: | :------:  |
-| [<img src="https://avatars.githubusercontent.com/u/70210457?v=4" height=100 width=100> <br/> @Anas-wg](https://github.com/Anas-wg) | [<img src="[https://avatars.githubusercontent.com/u/?v=4](https://avatars.githubusercontent.com/u/95401144?v=4)" height=100 width=100> <br/> @ElvaCJ](https://github.com/ElvaCJ) |
+| [<img src="https://avatars.githubusercontent.com/u/70210457?v=4" height=100 width=100> <br/> @Anas-wg](https://github.com/Anas-wg) | [<img src="https://avatars.githubusercontent.com/u/95401144?v=4" height=100 width=100> <br/> @ElvaCJ](https://github.com/ElvaCJ) |
 
 ### BE Developer
 | **김용순** |
 | :------: |
-| [<img src="[https://avatars.githubusercontent.com/u/?v=4](https://avatars.githubusercontent.com/u/42750885?v=4)" height=100 width=100> <br/> @s00ngle](https://github.com/s00ngle) |
+| [<img src="https://avatars.githubusercontent.com/u/42750885?v=4" height=100 width=100> <br/> @s00ngle](https://github.com/s00ngle) |
 
 ## 사용 기술
 Flutter, FastAPI, MySQL, Google Cloud Platform
