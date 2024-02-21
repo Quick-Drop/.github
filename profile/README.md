@@ -2,6 +2,8 @@
 
 ### Overview
 2024 GDSC Solution Challenge team Quick Drop
+![image](https://github.com/Quick-Drop/.github/assets/70210457/2f6f2648-5c4f-4c77-aa0b-76ac6863ae68)
+
 ### Development Period
 2023.12.28 ~ 2024.02.22
 ### Introduction
